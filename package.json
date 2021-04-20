@@ -1,0 +1,19 @@
+{
+  "name": "AsyncAwait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "start" : "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
