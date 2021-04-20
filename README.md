@@ -6,4 +6,5 @@ and change src attribute to an existing js file.
      ```html
           <script src="./await.js" />
      ```
+- :heavy_check_mark: To work with `async.js` a local server must be running. For this execute `npm start` in another console
 - Happy learning :muscle:
